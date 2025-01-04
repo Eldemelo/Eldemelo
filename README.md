@@ -1,7 +1,5 @@
 # Hi there, I'm Ethan! 👋
 
-![Header]()
-
 ## About Me
 I'm a Computer Science major with a passion for learning about new technologies and ways to optimize and improve the daily life
 
