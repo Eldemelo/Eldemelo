@@ -1,6 +1,10 @@
 <span style="color: yellow;">User_Ethan@DeMelo</span><br>
 -&#160;-&#160;-&#160;-&#160;- -&#160;-&#160;-&#160;-&#160;- -&#160;-&#160;-&#160;-&#160;- -&#160;-&#160;-&#160;-&#160;- <br>
-<span style="color: yellow;">Start_Time: </span>2000-11-22 12:00<br> z
+<span style="color: yellow;">OS: </span> Linux<br>
+<span style="color: yellow;">Host: </span> edem-server<br>
+<span style="color: yellow;">Kernel: </span> 5.6.0-ethanOS #7070<br>
+<span style="color: yellow;">Shell: </span> bash 5.2.15<br>
+<span style="color: yellow;">Start_Time: </span>2000-11-22 12:00<br>
 <span style="color: yellow;">Uptime: </span>25 : 02 : 12 : 02 : 47 : 38<br>
 <span style="color: yellow;">Skills:</span> Full_Stack / Backend / DevOps<br>
 <span style="color: yellow;">Languages: </span>C / C++ / Rust / Python / HTML / CSS<br>
