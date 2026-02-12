@@ -1,3 +1,51 @@
+<span style="font-family: 'Courier New', monospace;">This text uses Courier New.
+<span style="color: yellow;">User_Ethan@DeMelo</span><br>
+-&#160;-&#160;-&#160;-&#160;- -&#160;-&#160;-&#160;-&#160;- -&#160;-&#160;-&#160;-&#160;- -&#160;-&#160;-&#160;-&#160;- <br>
+<span style="color: yellow;">Start_Time: </span>2000-11-22 12:00<br>
+<span style="color: yellow;">Skills:</span> Full_Stack / Backend / DevOps<br>
+<span style="color: yellow;">Languages: </span>C / C++ / Rust / Python / HTML / CSS<br>
+<span style="color: yellow;"></span><br>
+
+
+</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Hi there, I'm Ethan! 👋
 
 ## About Me
